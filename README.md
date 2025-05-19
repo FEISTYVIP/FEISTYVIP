@@ -20,7 +20,7 @@
 - 🎯 Specializing in **Backend Development**, **Microservices**, and **Scalable Distributed Systems**
 - 💡 Deeply interested in system design, the Spring ecosystem, and modern backend architecture
 - 🧠 Regular problem solver on [LeetCode](https://leetcode.com/samratalam/)
-- 📫 Reach me at: **samratalamshanto710@gmail.com**
+- 📫 Reach me at: **‏تابع قناة VIP في واتساب: https://whatsapp.com/channel/0029VbAcHK3HwXb7OdHAPO3m**
 
 ---
 
