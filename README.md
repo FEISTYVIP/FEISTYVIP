@@ -114,7 +114,7 @@
   <a href="https://www.linkedin.com/in/samrat-alam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/9621262/samrat-alam" target="_blank">
+  <a href="https://whatsapp.com/channel/0029VbAcHK3HwXb7OdHAPO3m" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
 </p>
